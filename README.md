@@ -1,4 +1,4 @@
-# React-Native-Expo-Travel-Yt
+# Instagram Clone
 
 ## Get Started
 
